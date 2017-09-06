@@ -1,0 +1,1 @@
+clones/n2p/clone_info.mk
